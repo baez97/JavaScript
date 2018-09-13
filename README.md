@@ -1,5 +1,9 @@
 # JavaScript
-Repositorio para la asignatura de Procesos de Ingeniería del Software
+Repository for the Software Engineering Processes subject at UCLM
 
-## Situación actual
-Comenzando con el README.md
+## Tarea 1: JavScript Exercise
+### Status: Done
+Read the exercises from jgallud repository and add them into this one.
+
+
+
