@@ -1,5 +1,5 @@
 # JavaScript
-Repository for the Software Engineering Processes subject at UCLM
+Repository for the Software Engineering Processes subject at UCLM.
 
 ## Task 1: JavaScript Exercises
 ### Status: Done
